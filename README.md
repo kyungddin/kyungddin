@@ -1,5 +1,3 @@
-<h1 align="center">Kyungddin is Good</h1>
-
 ###
 
 <br clear="both">
