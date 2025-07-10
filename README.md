@@ -76,7 +76,7 @@
 
 ###
 
-<h6 align="left">2024 Vivado SRAM Multiplier 설계<br>2025 Virtuoso 3-bit Flash ADC Schematic & Layout 설계</h6>
+<h6 align="left">2024 Vivado SRAM Dot Matrix Multiplier 설계<br>2025 Virtuoso 3-bit Flash ADC Schematic & Layout 설계</h6>
 
 ###
 
