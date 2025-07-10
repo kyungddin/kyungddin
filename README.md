@@ -102,7 +102,7 @@
 
 ###
 
-<h2 align="left">C<br>C++<br>Python<br>SystemVerilog</p>
+<h6 align="left">C<br>C++<br>Python<br>SystemVerilog</p>
 
 ###
 
