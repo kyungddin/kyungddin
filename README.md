@@ -52,7 +52,7 @@
 
 ###
 
-<h6 align="left">2019~2022 SeoulTech University MECH<br>2019~2020 RnD Lab<br>2020~2022 KOREA Air Force<br>2023~2026 Chung-Ang University EEE<br>2025~2026 NSL Lab</h6>
+<h6 align="left">2019~2023 SeoulTech University MECH<br>2019~2020 RnD Lab<br>2020~2022 KOREA Air Force<br>2023~2026 Chung-Ang University EEE<br>2025~2026 NSL Lab</h6>
 
 ###
 
