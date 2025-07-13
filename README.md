@@ -84,7 +84,7 @@
 
 ###
 
-<h6 align="left">2019 Humanoid Robot Motion Control & Computer Vision<br>2025 Machine Learning Model for Binary Classification of Infertility Patients<br>2025 LiDAR Detection<br>2025 Autonomous Car's CAN Communication & InfraStructure LiDAR</h6>
+<h6 align="left">2019 Humanoid Robot Motion Control & Computer Vision<br>2025 Machine Learning Model for Binary Classification of Infertility Patients<br>2025 LiDAR Detection<br>2025 Autonomous Car's CAN Communication & LiDAR InfraStructure </h6>
 
 ###
 
@@ -92,7 +92,7 @@
 
 ###
 
-<h6 align="left">Data Structure<br>Algorithm<br>Operating System<br>Computer Architecture<br>Computer Network</h6>
+<h6 align="left">Data Structure(A0)<br>Algorithm(A+)<br>Operating System(A+)<br>Computer Architecture(A+)<br>Computer Network(Self Study)</h6>
 
 ###
 
@@ -116,6 +116,6 @@
 
 ###
 
-<h6 align="left">MOS Master<br>워드프로세서 1급<br>회계관리 2급<br>상공회의소 한자 4급<br><br>태권도 3단<br>백준 열심히 함<br>영화좋아함</h6>
+<h6 align="left">MOS Master<br>워드프로세서 1급<br>회계관리 2급<br>상공회의소 한자 4급<br><br>백준 실버1</h6>
 
 ###
