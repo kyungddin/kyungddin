@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <a href="kyungddin@cau.ac.kr" target="_blank">
+  <a href="https://outlook.office.com/mail/deeplink/compose?to=kyungddin@cau.ac.kr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
