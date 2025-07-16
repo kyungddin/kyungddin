@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://github.com/kyungddin/kyungddin/blob/main/github_front.png" />
 </div>
-###
 
 ###
 
