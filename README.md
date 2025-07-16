@@ -125,7 +125,7 @@
 
 ###
 
-<div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=kyungddin&custom_title=kyungddin's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+<div style="left"> <img src="https://github-readme-stats.vercel.app/api?username=kyungddin&custom_title=kyungddin's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungddin&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> 
 </div> 
