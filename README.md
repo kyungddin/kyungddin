@@ -102,7 +102,7 @@
 
 ###
 
-<h6 align="left">GPA:4.07/4.5<br>MOS Master<br>워드프로세서 1급<br>회계관리 2급<br>상공회의소 한자 4급<br>백준골드</h6>
+<h6 align="left">GPA: 4.07/4.5<br>MOS Master<br>워드프로세서 1급<br>회계관리 2급<br>상공회의소 한자 4급<br>백준골드</h6>
 
 ###
 
