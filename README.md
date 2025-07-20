@@ -62,7 +62,7 @@
 
 ###
 
-<h6 align="left">2024 Vivado SRAM Dot Matrix Multiplier 설계<br>2025 Virtuoso 3-bit Flash ADC Schematic & Layout 설계</h6>
+<h6 align="left">2024 Amplifier Design Practice<br>2024 Converter Design Practice<br>2024 Vivado SRAM Dot Matrix Multiplier 설계<br>2025 Virtuoso 3-bit Flash ADC Schematic & Layout 설계</h6>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<h6 align="left">2019 Humanoid Robot Motion Control & Computer Vision<br>2025 Machine Learning Model for Binary Classification of Infertility Patients<br>2025 LiDAR Detection<br>2025 Autonomous Car's CAN Communication & LiDAR InfraStructure </h6>
+<h6 align="left">2019 Humanoid Robot Motion Control & Computer Vision<br>2025 Machine Learning Model for Binary Classification of Infertility Patients<br>2025 X-Hyper320TKU Simulator Project<br>2025 LiDAR Detection<br>2025 Autonomous Car's CAN Communication & LiDAR InfraStructure </h6>
 
 ###
 
