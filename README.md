@@ -62,7 +62,7 @@
 
 ###
 
-<h6 align="left">2024 Amplifier Design Practice<br>2024 Converter Design Practice<br>2024 Vivado SRAM Dot Matrix Multiplier 설계<br>2025 Virtuoso 3-bit Flash ADC Schematic & Layout 설계</h6>
+<h6 align="left">2024 Electronic Amplifier Design Practice<br>2024 Electronic Converter Design Practice<br>2024 Vivado SRAM Dot Matrix Multiplier 설계<br>2025 Virtuoso 3-bit Flash ADC Schematic & Layout 설계</h6>
 
 ###
 
