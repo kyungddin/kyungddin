@@ -70,7 +70,7 @@
 
 ###
 
-<h6 align="left">2019 Humanoid Robot Motion Control & Computer Vision<br>2025 Machine Learning Model for Binary Classification of Infertility Patients<br>2025 X-Hyper320TKU Simulator Project<br>2025 LiDAR Detection<br>2025 Autonomous Car's CAN Communication & LiDAR InfraStructure </h6>
+<h6 align="left">2019 Humanoid Robot Motion Control & Computer Vision<br>2025 Machine Learning Model for Binary Classification of Infertility Patients<br>2025 X-Hyper320TKU Simulator Project<br>2025 LiDAR Mirror Detection & Dual Return<br>2025 Autonomous Car's CAN Communication & LiDAR InfraStructure </h6>
 
 ###
 
