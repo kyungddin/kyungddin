@@ -66,6 +66,14 @@
 
 ###
 
+<h2 align="left">🛠️Electronics Skill</h2>
+
+###
+
+<h6 align="left">Vivado<br>Cadence Virtuoso<br>Cadence Pspice<br>Arduino<br>RaspberryPi<br>Oscilloscope<br>Power Supply & Multimeter</p>
+
+###
+
 <h2 align="left">📑Programming Project</h2>
 
 ###
