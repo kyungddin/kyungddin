@@ -54,7 +54,7 @@
 
 ###
 
-<h6 align="left">2024 SK Hynix 반도체 Curriculum 수료<br>2025 LG Aimers 6기<br>2025 H-Mobility Class 자율주행 트랙 통신 및 네트워크 분야 수료<br>2025 LG Aimers 7기</h6>
+<h6 align="left">2024 SK Hynix 반도체 Curriculum 수료<br>2025 LG Aimers 6기<br>2025 H-Mobility Class 자율주행 트랙 통신 및 네트워크 분야 수료<br>2025 H-Mobility Class 자율주행 트랙 제어 분야 수료<br>2025 LG Aimers 7기</h6>
 
 ###
 
