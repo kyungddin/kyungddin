@@ -70,7 +70,7 @@
 
 ###
 
-<h6 align="left">Vivado<br>Cadence Virtuoso<br>Cadence Pspice<br>Arduino<br>RaspberryPi<br>Oscilloscope<br>Power Supply & Multimeter</p>
+<h6 align="left">Vivado<br>Cadence Virtuoso<br>Cadence Pspice<br>Arduino<br>RaspberryPi<br>Oscilloscope<br>Power Supply & Multimeter<br>Dynamixel Motor<br>RS232 Communication<br>Lidar Sensor</p>
 
 ###
 
