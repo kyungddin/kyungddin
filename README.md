@@ -34,6 +34,26 @@
 
 ###
 
+<div align="center">
+
+<table>
+<tr>
+  <td>
+    <a href="https://solved.ac/kyungddin">
+      <img src="http://mazassumnida.wtf/api/generate_badge?boj=kyungddin" alt="Solved.ac Profile"/>
+    </a>
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungddin&layout=compact&theme=dracula" alt="Top Langs"/>
+  </td>
+</tr>
+</table>
+
+</div>
+
+
+###
+
 <h2 align="left">🚩History</h2>
 
 ###
@@ -119,25 +139,5 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyungddin&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<div align="center">
-
-<table>
-<tr>
-  <td>
-    <a href="https://solved.ac/kyungddin">
-      <img src="http://mazassumnida.wtf/api/generate_badge?boj=kyungddin" alt="Solved.ac Profile"/>
-    </a>
-  </td>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungddin&layout=compact&theme=dracula" alt="Top Langs"/>
-  </td>
-</tr>
-</table>
-
-</div>
-
 
 ###
