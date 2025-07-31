@@ -122,17 +122,22 @@
 
 ###
 
+<div align="center">
+
 <table>
 <tr>
-  <td align="center">
+  <td>
     <a href="https://solved.ac/kyungddin">
       <img src="http://mazassumnida.wtf/api/generate_badge?boj=kyungddin" alt="Solved.ac Profile"/>
     </a>
   </td>
-  <td align="center">
+  <td>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungddin&layout=compact&theme=dracula" alt="Top Langs"/>
   </td>
 </tr>
 </table>
+
+</div>
+
 
 ###
