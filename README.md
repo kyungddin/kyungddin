@@ -34,6 +34,14 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyungddin&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 <div align="center">
 
 <table>
@@ -131,13 +139,5 @@
 ###
 
 <h6 align="left">GPA: 4.07/4.5<br>MOS Master<br>워드프로세서 1급<br>회계관리 2급<br>상공회의소 한자 4급</h6>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyungddin&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
