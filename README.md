@@ -122,4 +122,17 @@
 
 ###
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kyungddin)](https://solved.ac/kyungddin)
+<table>
+<tr>
+  <td align="left">
+    <a href="https://solved.ac/kyungddin">
+      <img src="http://mazassumnida.wtf/api/generate_badge?boj=kyungddin" alt="Solved.ac Profile"/>
+    </a>
+  </td>
+  <td align="right">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungddin&layout=compact&theme=dracula" alt="Top Langs"/>
+  </td>
+</tr>
+</table>
+
+###
