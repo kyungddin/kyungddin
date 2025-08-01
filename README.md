@@ -114,7 +114,7 @@
 
 ###
 
-<h6 align="left">Data Structure(A0)<br>Algorithm(A+)<br>Operating System(A+)<br>Computer Architecture(A+)<br>Computer Network(Self Study)</h6>
+<h6 align="left">Data Structure<br>Algorithm<br>Operating System<br>Computer Architecture<br>Computer Network(h)</h6>
 
 ###
 
