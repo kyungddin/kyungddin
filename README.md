@@ -74,7 +74,7 @@
 
 ###
 
-<h6 align="left">2019 휴머노이드로봇스포츠 지능형 하이테크 리그 공과대학장상<br>2019 국제로봇코테스트 지능형 하이테크 리그 국가기술표준원장상</h6>
+<h6 align="left">2019 휴머노이드로봇스포츠 지능형 하이테크 리그 공과대학장상<br>2019 국제로봇콘테스트 지능형 하이테크 리그 국가기술표준원장상</h6>
 
 ###
 
@@ -114,7 +114,7 @@
 
 ###
 
-<h6 align="left">Data Structure<br>Algorithm<br>Operating System<br>Computer Architecture<br>Computer Network(h)</h6>
+<h6 align="left">Data Structure<br>Algorithm<br>Operating System<br>Computer Architecture<br>Computer Network</h6>
 
 ###
 
