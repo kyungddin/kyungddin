@@ -28,39 +28,48 @@
 
 </div>
 
-## 🚩 History
+### 🚩 History
+<sub>
 - 2019 ~ 2023 SeoulTech University MECH  
 - 2019 ~ 2020 RnD Lab  
 - 2020 ~ 2022 KOREA Air Force 10th Fighter Wing  
 - 2023 ~ 2026 Chung-Ang University EEE  
 - 2025 ~ 2026 NSL Lab  
+</sub>
 
 ---
 
-## 🏆 Award
+### 🏆 Award
+<sub>
 - 2019 휴머노이드로봇스포츠 지능형 하이테크 리그 공과대학장상  
 - 2019 국제로봇콘테스트 지능형 하이테크 리그 국가기술표준원장상  
+</sub>
 
 ---
 
-## ✨ Activity
+### ✨ Activity
+<sub>
 - 2024 SK Hynix 반도체 Curriculum 수료  
 - 2025 LG Aimers 6기  
 - 2025 H-Mobility Class 자율주행 트랙 통신 및 네트워크 분야 수료  
 - 2025 H-Mobility Class 자율주행 트랙 제어 분야 수료  
 - 2025 LG Aimers 7기  
+</sub>
 
 ---
 
-## ⚡ Electronics Project
+### ⚡ Electronics Project
+<sub>
 - 2024 Electronic Amplifier Design Practice  
 - 2024 Electronic Converter Design Practice  
 - 2024 Vivado SRAM Dot Matrix Multiplier 설계  
 - 2025 Virtuoso 3-bit Flash ADC Schematic & Layout 설계  
+</sub>
 
 ---
 
-## 🛠️ Electronics Skill
+### 🛠️ Electronics Skill
+<sub>
 - Vivado  
 - Cadence Virtuoso  
 - Cadence Pspice  
@@ -71,43 +80,53 @@
 - Dynamixel Motor  
 - RS232 Communication  
 - Lidar Sensor  
+</sub>
 
 ---
 
-## 📑 Programming Project
+### 📑 Programming Project
+<sub>
 - 2019 Humanoid Robot Motion Control & Computer Vision  
 - 2025 Machine Learning Model for Binary Classification of Infertility Patients  
 - 2025 X-Hyper320TKU Simulator Project  
 - 2025 LiDAR Mirror Detection & Dual Return  
 - 2025 Autonomous Car's CAN Communication & LiDAR InfraStructure  
+</sub>
 
 ---
 
-## 💻 Computer Science
+### 💻 Computer Science
+<sub>
 - Data Structure  
 - Algorithm  
 - Operating System  
 - Computer Architecture  
 - Computer Network  
+</sub>
 
 ---
 
-## ⌨️ Programming Language
+### ⌨️ Programming Language
+<sub>
 - C  
 - C++  
 - Python  
 - SystemVerilog  
 - ARM Assembly  
+</sub>
 
 ---
 
-## 🗣️ English Skill
+### 🗣️ English Skill
+<sub>
 - 2022 TEPS 379  
 - 2025 OPIC IH  
+</sub>
 
 ---
 
-## 💥 ETC
+### 💥 ETC
+<sub>
 - GPA: 4.07 / 4.5  
 - MOS Master  
 - 워드프로세서 1급  
@@ -115,3 +134,4 @@
 - 상공회의소 한자 4급  
 - AutoCAD  
 - 소주 3병  
+</sub>
