@@ -21,7 +21,7 @@
       </a>
     </td>
     <td>
-      <img src="http://mazandi.herokuapp.com/api?handle={kyungddin}&theme=dark"/>
+      <img src="http://mazandi.herokuapp.com/api?handle=kyungddin&theme=dark"/>
     </td>
   </tr>
 </table>
