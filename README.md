@@ -1,3 +1,38 @@
+<div align="center">
+  <img src="https://github.com/kyungddin/kyungddin/blob/main/github_front.png" width="800"/>
+</div>
+
+<br>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👋 About Me</h3>
+      <ul>
+        <li>알고리즘 문제 해결을 즐깁니다.</li>
+        <li>새로운 기술을 배우고 적용하는 것에 관심이 많습니다.</li>
+        <li>꾸준함을 중요하게 생각합니다.</li>
+      </ul>
+      <br>
+      <h3>🛠️ Tech Stack</h3>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>📊 My Stats</h3>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyungddin&radius=16&theme=github-compact&area=true&order=5" height="200" alt="activity-graph graph"  />
+      <br><br>
+      <a href="https://solved.ac/kyungddin">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyungddin" alt="Solved.ac Profile"/>
+      </a>
+      <img src="http://mazandi.herokuapp.com/api?handle=kyungddin&theme=dark"/>
+    </td>
+  </tr>
+</table>
+
+
 ###
 <div align="center">
   <img src="https://github.com/kyungddin/kyungddin/blob/main/github_front.png" />
