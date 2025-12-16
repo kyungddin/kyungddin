@@ -34,7 +34,6 @@
 - 2024 SK Hynix 반도체 Curriculum 수료  
 - 2025 LG Aimers 6기  
 - 2025 H-Mobility Class 자율주행 트랙 통신 및 네트워크 분야 수료  
-- 2025 H-Mobility Class 자율주행 트랙 제어 분야 수료  
 - 2025 LG Aimers 7기  
 
 </small>
@@ -44,8 +43,6 @@
 ### ⚡ Electronics Project
 <small>
 
-- 2024 Electronic Amplifier Design Practice  
-- 2024 Electronic Converter Design Practice  
 - 2024 Vivado SRAM Dot Matrix Multiplier 설계  
 - 2025 Virtuoso 3-bit Flash ADC Schematic & Layout 설계  
 
@@ -61,10 +58,6 @@
 - Cadence Pspice  
 - Arduino  
 - Raspberry Pi  
-- Oscilloscope  
-- Power Supply & Multimeter  
-- Dynamixel Motor  
-- RS232 Communication  
 - Lidar Sensor  
 
 </small>
