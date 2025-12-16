@@ -84,19 +84,6 @@
 
 ---
 
-### 💻 Computer Science
-<small>
-
-- Data Structure  
-- Algorithm  
-- Operating System  
-- Computer Architecture  
-- Computer Network  
-
-</small>
-
----
-
 ### ⌨️ Programming Language
 <small>
 
