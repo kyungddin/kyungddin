@@ -120,23 +120,6 @@
 
 ---
 
-### 💥 ETC
-<small>
-
-- GPA: 4.07 / 4.5  
-- MOS Master  
-- 워드프로세서 1급  
-- 회계관리 2급  
-- 상공회의소 한자 4급  
-- AutoCAD  
-- 소주 3병  
-
-</small>
-
-###
-
----
-
 ###
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyungddin&radius=16&theme=github-compact&area=true&order=5" height="300" alt="activity-graph graph"  />
