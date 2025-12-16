@@ -68,10 +68,11 @@
 <small>
 
 - 2019 Humanoid Robot Motion Control & Computer Vision  
-- 2025 Machine Learning Model for Binary Classification of Infertility Patients  
-- 2025 X-Hyper320TKU Simulator Project  
-- 2025 LiDAR Mirror Detection & Dual Return  
-- 2025 Autonomous Car's CAN Communication & LiDAR InfraStructure  
+- 2025 Decision Tree Ensemble Machine Learning Model for Binary Classification of Infertility Patients  
+- 2025 X-Hyper320TKU Simulator Project
+- 2025 LSTM Deep Learning Model for Food Service Menu Demand Forecasting
+- 2025 LiDAR Reflection Recovery via Shadow Boxing
+- 2025 Autonomous Car's CAN Communication / Infra LiDAR / UDP Socket Communication System  
 
 </small>
 
