@@ -115,7 +115,9 @@
 
 ###
 
-<img src="https://ghchart.rshah.org/kyungddin" />
+<div align="center">
+  <img src="https://ghchart.rshah.org/kyungddin" />
+</div>
 
 ###
 
