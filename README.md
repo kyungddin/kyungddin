@@ -115,7 +115,7 @@
 
 ###
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kyungddin&radius=16&theme=github-compact&area=true&order=5" height="300" alt="activity-graph graph"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kyungddin&theme=github-dark&hide_border=true"/>
 
 ###
 
