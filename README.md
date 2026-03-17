@@ -66,8 +66,7 @@
 - Vivado  
 - Cadence Virtuoso  
 - OrCAD / SPICE
-- Raspberry Pi  
-- Lidar Sensor  
+- LiDAR Sensor  
 
 </small>
 
@@ -87,16 +86,16 @@
 
 ---
 
-### ⌨️ Programming Stack
+### ⌨️ Programming Skill
 <small>
 
-- C / C++
+- C
+- C++
 - Python  
-- SystemVerilog
 - MATLAB
-- Ubuntu Linux 20.04
-- ROS Noetic
-- Git
+- Ubuntu Linux
+- ROS
+- Git/SVN
 - Docker
 
 </small>
