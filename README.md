@@ -22,7 +22,8 @@
 <small>
 
 - The 16th International Conference on Information and Communication Technology Convergence (ICTC) - ICTC Workshop on Big Data, CPS, and 5G&6G Communication Networks (IWBCN)
-- https://nsl.cau.ac.kr/papers/ictc/ictc2025-kim-lidar-mirror.pdf
+  - LiDAR Reflection Recovery via Shadow Boxing
+  - https://nsl.cau.ac.kr/papers/ictc/ictc2025-kim-lidar-mirror.pdf
 
 </small>
 
@@ -32,7 +33,7 @@
 <small>
 
 - IRC 2019 국가기술표준원장상  
-- https://www.irobotnews.com/news/articleView.html?idxno=18484
+  - https://www.irobotnews.com/news/articleView.html?idxno=18484
 
 </small>
 
@@ -45,6 +46,39 @@
 - 2025 LG Aimers 6th AI hackathon
 - 2025 Hyundai H-Mobility Class
 - 2025 LG Aimers 7th AI hackathon
+
+</small>
+
+---
+
+
+
+</small>
+
+---
+
+### ⌨️ Programming Skill
+<small>
+
+- C
+- C++
+- Python  
+- MATLAB
+- Linux
+- ROS
+- Git/SVN
+- Docker
+- MySQL/MariaDB
+
+### 🧑‍💻 Programming Project
+<small>
+
+- 2019 Humanoid Robot Motion Control & Computer Vision  
+- 2025 Decision Tree Ensemble Machine Learning Model for Binary Classification of Infertility Patients  
+- 2025 X-Hyper320TKU Simulator Project
+- 2025 LSTM Deep Learning Model for Food Service Menu Demand Forecasting
+- 2025 LiDAR Reflection Recovery via Shadow Boxing
+- 2025 Capstone Design : Infra LiDAR Based Autonomous Car System
 
 </small>
 
@@ -65,38 +99,8 @@
 
 - Vivado  
 - Cadence Virtuoso  
-- OrCAD / SPICE
+- OrCAD/SPICE
 - LiDAR Sensor  
-
-</small>
-
----
-
-### 🧑‍💻 Programming Project
-<small>
-
-- 2019 Humanoid Robot Motion Control & Computer Vision  
-- 2025 Decision Tree Ensemble Machine Learning Model for Binary Classification of Infertility Patients  
-- 2025 X-Hyper320TKU Simulator Project
-- 2025 LSTM Deep Learning Model for Food Service Menu Demand Forecasting
-- 2025 LiDAR Reflection Recovery via Shadow Boxing
-- 2025 Capstone Design : Infra LiDAR Based Autonomous Car System
-
-</small>
-
----
-
-### ⌨️ Programming Skill
-<small>
-
-- C
-- C++
-- Python  
-- MATLAB
-- Ubuntu Linux
-- ROS
-- Git/SVN
-- Docker
 
 </small>
 
@@ -109,6 +113,8 @@
 - 2025 OPIC IH  
 
 </small>
+
+
 
 ---
 
