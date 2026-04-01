@@ -64,7 +64,7 @@
 - Docker
 - MySQL/MariaDB
 
-- </small>
+</small>
 
 ---
 
