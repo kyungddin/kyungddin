@@ -1,18 +1,16 @@
 <div align="center">
 
-  <img src="https://github.com/kyungddin/kyungddin/blob/main/github_front.png" width="600"/>
-
-  <br/><br/>
+  <img src="https://github.com/kyungddin/kyungddin/blob/main/github_front.png" width="900"/>
 
   <table>
     <tr>
       <td align="center">
         <a href="https://solved.ac/kyungddin">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyungddin" width="300"/>
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyungddin" width="450"/>
         </a>
       </td>
       <td align="center">
-        <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="300"/>
+        <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="450"/>
       </td>
     </tr>
   </table>
