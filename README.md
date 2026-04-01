@@ -125,15 +125,3 @@
 - 2025 OPIC IH  
 
 </small>
-
----
-
-###
-
-<div align="center">
-  <a href="https://solved.ac/kyungddin">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyungddin" width="400"/>
-  </a>
-</div>
-
-###
