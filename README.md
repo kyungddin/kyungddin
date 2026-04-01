@@ -5,6 +5,14 @@
 
 ---
 
+###
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+###
+
+---
+
 ### 🚩 History
 <small>
 
@@ -82,16 +90,6 @@
 
 ---
 
-### ⚡ Electronics Project
-<small>
-
-- 2024 SRAM Interface MAC ASIC Design
-- 2025 3-bit Flash ADC Schematic & Layout Design
-
-</small>
-
----
-
 ### 🪫 Electronics Skill
 <small>
 
@@ -104,6 +102,16 @@
 
 ---
 
+### ⚡ Electronics Project
+<small>
+
+- 2024 SRAM Interface MAC ASIC Design
+- 2025 3-bit Flash ADC Schematic & Layout Design
+
+</small>
+
+---
+
 ### 🗣️ English Skill
 <small>
 
@@ -111,14 +119,6 @@
 - 2025 OPIC IH  
 
 </small>
-
----
-
-###
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-###
 
 ---
 
