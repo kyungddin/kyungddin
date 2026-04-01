@@ -51,12 +51,6 @@
 
 ---
 
-
-
-</small>
-
----
-
 ### ⌨️ Programming Skill
 <small>
 
@@ -69,6 +63,10 @@
 - Git/SVN
 - Docker
 - MySQL/MariaDB
+
+- </small>
+
+---
 
 ### 🧑‍💻 Programming Project
 <small>
