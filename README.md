@@ -118,9 +118,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/kyungddin"/>
-</div>
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 ###
 
