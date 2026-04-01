@@ -112,8 +112,6 @@
 
 </small>
 
-
-
 ---
 
 ###
@@ -127,20 +125,9 @@
 ###
 
 <div align="center">
-
-<table>
-  <tr>
-    <td>
-      <a href="https://solved.ac/kyungddin">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyungddin" alt="Solved.ac Profile"/>
-      </a>
-    </td>
-    <td>
-      <img src="http://mazandi.herokuapp.com/api?handle=kyungddin&theme=dark"/>
-    </td>
-  </tr>
-</table>
-
+  <a href="https://solved.ac/kyungddin">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyungddin" width="400"/>
+  </a>
 </div>
 
 ###
