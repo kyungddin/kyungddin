@@ -1,24 +1,33 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write  
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+      - uses: actions/checkout@v4   
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
       - name: Commit & Push
         run: |
           git config user.name kyungddin
           git config user.email kyungddin@cau.ac.kr
           git add -A .
-          git commit -m "generated"
+          git commit -m "generated" || echo "no changes"
           git push
