@@ -1,23 +1,23 @@
-### 
+<div align="center">
 
-<div align="center"> 
-  <img src="https://github.com/kyungddin/kyungddin/blob/main/github_front.png" />
+  <img src="https://github.com/kyungddin/kyungddin/blob/main/github_front.png" width="600"/>
+
+  <br/><br/>
+
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://solved.ac/kyungddin">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyungddin" width="300"/>
+        </a>
+      </td>
+      <td align="center">
+        <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="300"/>
+      </td>
+    </tr>
+  </table>
+
 </div>
-
-###
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://solved.ac/kyungddin">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyungddin" width="400"/>
-      </a>
-    </td>
-    <td align="center">
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="400"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
