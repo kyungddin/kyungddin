@@ -1,15 +1,13 @@
-###
-<div align="center">
-  <img src="https://github.com/kyungddin/kyungddin/blob/main/github_front.png" />
-</div>
-
----
-
-###
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-###
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/kyungddin/kyungddin/blob/main/github_front.png" width="400"/>
+    </td>
+    <td align="center">
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
