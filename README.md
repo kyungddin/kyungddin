@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/kyungddin/kyungddin/blob/main/github_front.png" width="1000"/>
+  <img src="https://github.com/kyungddin/kyungddin/blob/main/github_front.png" width="950"/>
 
   <table>
     <tr>
