@@ -1,7 +1,17 @@
+### 
+
+<div align="center"> 
+  <img src="https://github.com/kyungddin/kyungddin/blob/main/github_front.png" />
+</div>
+
+###
+
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/kyungddin/kyungddin/blob/main/github_front.png" width="400"/>
+      <a href="https://solved.ac/kyungddin">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyungddin" width="400"/>
+      </a>
     </td>
     <td align="center">
       <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="400"/>
