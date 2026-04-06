@@ -68,14 +68,20 @@
 ### ⌨️ Programming Skill
 <small>
 
-- C
-- C++
-- Python  
-- MATLAB
-- Linux
-- ROS
+- Language
+  - C/C++
+  - Python
+  - Java
+  - MATLAB
+  - SystemVerilog
+  - Assembly(ARM, MIPS)
+- Devops
+  - Docker
+  - Ansible
+- OS & Middleware
+  - Linux
+  - ROS
 - Git/SVN
-- Docker
 - MySQL/MariaDB
 
 </small>
