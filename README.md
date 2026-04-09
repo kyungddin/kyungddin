@@ -26,6 +26,21 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat\&logo=mariadb\&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 
+#### ** Libraries & Frameworks **
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat)
+![TCP](https://img.shields.io/badge/TCP-IP-grey?style=flat)
+![HTTP](https://img.shields.io/badge/HTTP-blue?style=flat)
+![CAN](https://img.shields.io/badge/CAN--Bus-grey?style=flat)
+
 </p>
 
 # Education & Career
