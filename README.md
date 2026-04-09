@@ -63,7 +63,7 @@
 
 </small>
 
-##Programming Project
+## Software Project
 <small>
 
 - 2019 Humanoid Robot Motion Control & Computer Vision  
@@ -75,17 +75,7 @@
 
 </small>
 
-## Electronics Skill
-<small>
-
-- Vivado  
-- Cadence Virtuoso  
-- OrCAD/SPICE
-- LiDAR Sensor  
-
-</small>
-
-## Electronics Project
+## Hardware Project
 <small>
 
 - 2024 SRAM Interface MAC ASIC Design
