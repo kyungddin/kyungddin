@@ -42,11 +42,11 @@
 
 # Education & Career
 ```
-2019 - 2023 SeoulTech University (MSD)
-2019 - 2020 R&D Lab (Humanoid)
+2019 - 2023 SeoulTech University MSD
+2019 - 2020 Rnd: Humanoid Lab
 2020 - 2022 Republic of Korea Air Force
-2023 - 2026 Chung-Ang University (EEE)
-2025 - 2026 NSL (Networked System Lab)
+2023 - 2026 Chung-Ang University EEE
+2025 - 2026 NSL: Networked System Lab
 ```
 ```
 2024 SK Hynix Semiconductor Curriculum
