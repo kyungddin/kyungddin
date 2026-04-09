@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=kyungddin&fontSize=42&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Input%20text=kyungddin"/>
 </p>
 
 ## Tech Stack
