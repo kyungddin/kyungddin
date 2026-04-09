@@ -10,32 +10,7 @@
 
 <p align="center">
 
-<b>Languages</b><br>
-
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-orange?style=flat&logo=Mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/SystemVerilog-grey?style=flat"/>
-<img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat"/>
-
-<br><br>
-
-<b>Systems & Tools</b><br>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white"/>
-
-<br><br>
-
-<b>DB & Collaboration</b><br>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+#### **Languages** ![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat\&logo=openjdk\&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat\&logo=Mathworks\&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-grey?style=flat) ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat) #### **Systems & Tools** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black) ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat\&logo=ros\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat\&logo=ansible\&logoColor=white) #### **DB & Collaboration** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat\&logo=mariadb\&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 
 </p>
 
