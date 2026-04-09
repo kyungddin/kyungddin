@@ -1,19 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/kyungddin/kyungddin/blob/main/github_front.png" width="950"/>
-
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://solved.ac/kyungddin">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyungddin" width="450"/>
-        </a>
-      </td>
-      <td align="center">
-        <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="450"/>
-      </td>
-    </tr>
-  </table>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
 
 </div>
 
@@ -22,7 +9,7 @@
 ### 🚩 History
 <small>
 
-- 2019 ~ 2023 SeoulTech University MECH  
+- 2019 ~ 2023 SeoulTech University MSD 
 - 2019 ~ 2020 RnD Lab  
 - 2020 ~ 2022 KOREA Air Force
 - 2023 ~ 2026 Chung-Ang University EEE  
