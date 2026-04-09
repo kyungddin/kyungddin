@@ -43,6 +43,13 @@
 2025 - 2026   NSL Lab
 ```
 
+```
+2024   SK Hynix Semiconductor Curriculum
+2025   LG Aimers 6th AI Hackathon
+2025   Hyundai H-Mobility Class
+2025   LG Aimers 7th AI Hackathon
+```
+
 ---
 
 ### **Publication**
@@ -57,17 +64,6 @@ The 16th ICTC (IWBCN Workshop)
 
 **IRC 2019 – Minister of National Institute of Technology and Standards Award**
 [Details](https://www.irobotnews.com/news/articleView.html?idxno=18484)
-
----
-
-### **Activities**
-
-```
-2024   SK Hynix Semiconductor Curriculum
-2025   LG Aimers 6th AI Hackathon
-2025   Hyundai H-Mobility Class
-2025   LG Aimers 7th AI Hackathon
-```
 
 ---
 
@@ -90,7 +86,5 @@ The 16th ICTC (IWBCN Workshop)
 
 ### **English**
 
-```
-TEPS 379 (2022)
-OPIC IH (2025)
-```
+* TEPS 379 (2022)
+* OPIC IH (2025)
