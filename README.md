@@ -37,9 +37,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat)
-![TCP](https://img.shields.io/badge/TCP-IP-grey?style=flat)
-![HTTP](https://img.shields.io/badge/HTTP-blue?style=flat)
-![CAN](https://img.shields.io/badge/CAN--Bus-grey?style=flat)
 
 </p>
 
