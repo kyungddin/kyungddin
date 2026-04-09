@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0:5f2c82,50:49a09d,100:a8e6cf&text=kyungddin%27s%20Github&textBg=false&section=header&fontColor=ffffff"/>
 </p>
 
-## Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -28,7 +28,7 @@
 
 </p>
 
-## Education & Career
+# Education & Career
 ```
 2019 - 2023 SeoulTech University (MSD)
 2019 - 2020 R&D Lab (Humanoid)
@@ -42,18 +42,18 @@
 2025 Hyundai H-Mobility Class
 2025 LG Aimers 7th AI Hackathon
 ```
-## Publication
+# Publication
 
 **LiDAR Reflection Recovery via Shadow Boxing**  
 The 16th ICTC (IWBCN Workshop)  
 [Paper Link](https://nsl.cau.ac.kr/papers/ictc/ictc2025-kim-lidar-mirror.pdf)
 
-## Award
+# Award
 
 **IRC 2019 – Minister of National Institute of Technology and Standards Award**  
 [Details](https://www.irobotnews.com/news/articleView.html?idxno=18484)
 
-## Projects
+# Projects
 
 ### Software
 - Humanoid Robot Motion Control & Computer Vision (2019)
@@ -66,7 +66,7 @@ The 16th ICTC (IWBCN Workshop)
 - SRAM Interface MAC ASIC Design (2024)
 - 3-bit Flash ADC Layout Design (2025)
 
-## English
+# English
 
 - TEPS 379 (2022)
 - OPIC IH (2025)
