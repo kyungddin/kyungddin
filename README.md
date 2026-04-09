@@ -1,8 +1,6 @@
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=KIM%20OOO&fontSize=40&fontColor=ffffff"/>
+</p>
 
 # **PROFILE**
 
@@ -88,3 +86,9 @@ The 16th ICTC (IWBCN Workshop)
 
 * TEPS 379 (2022)
 * OPIC IH (2025)
+
+<div align="center">
+
+  < img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+
+</div>
