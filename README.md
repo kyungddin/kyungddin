@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Input%20text=kyungddin](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient%2&text=kyungddin's%20Github&textBg=false)"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient%2&text=kyungddin%27s%20Github&textBg=false"/>
 </p>
 
 ## Tech Stack
