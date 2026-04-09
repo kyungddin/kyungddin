@@ -28,6 +28,8 @@
 
 </p>
 
+<br>
+
 # Education & Career
 ```
 2019 - 2023 SeoulTech University (MSD)
