@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=kyungddin&fontSize=42&fontColor=ffffff"/>
 </p>
 
-# **PROFILE**
-
-### **Tech Stack**
+## **Tech Stack**
 
 #### **Languages**
 
@@ -31,7 +29,7 @@
 
 ---
 
-### **Education & Career**
+## **Education & Career**
 
 ```
 2019 - 2023   SeoulTech University MSD
@@ -50,7 +48,7 @@
 
 ---
 
-### **Publication**
+## **Publication**
 
 **LiDAR Reflection Recovery via Shadow Boxing**
 The 16th ICTC (IWBCN Workshop)
@@ -58,14 +56,14 @@ The 16th ICTC (IWBCN Workshop)
 
 ---
 
-### **Award**
+## **Award**
 
 **IRC 2019 – Minister of National Institute of Technology and Standards Award**
 [Details](https://www.irobotnews.com/news/articleView.html?idxno=18484)
 
 ---
 
-### **Projects**
+## **Projects**
 
 #### **Software**
 
@@ -82,7 +80,7 @@ The 16th ICTC (IWBCN Workshop)
 
 ---
 
-### **English**
+## **English**
 
 * TEPS 379 (2022)
 * OPIC IH (2025)
