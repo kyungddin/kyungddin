@@ -6,7 +6,7 @@
 
 ---
 
-### 🚩 History
+## History
 <small>
 
 - 2019 ~ 2023 SeoulTech University MSD 
@@ -17,9 +17,7 @@
 
 </small>
 
----
-
-### 📄 Paper Publication
+## Paper Publication
 <small>
 
 - The 16th International Conference on Information and Communication Technology Convergence (ICTC) - ICTC Workshop on Big Data, CPS, and 5G&6G Communication Networks (IWBCN)
@@ -28,9 +26,7 @@
 
 </small>
 
----
-
-### 🏆 Award
+## Award
 <small>
 
 - IRC 2019 국가기술표준원장상  
@@ -38,9 +34,7 @@
 
 </small>
 
----
-
-### ✨ Activity
+## Activity
 <small>
 
 - 2024 SK Hynix Semiconductor Curriculum
@@ -50,9 +44,7 @@
 
 </small>
 
----
-
-### ⌨️ Programming Skill
+## Programming Skill
 <small>
 
 - Language
@@ -73,9 +65,7 @@
 
 </small>
 
----
-
-### 🧑‍💻 Programming Project
+##Programming Project
 <small>
 
 - 2019 Humanoid Robot Motion Control & Computer Vision  
@@ -87,9 +77,7 @@
 
 </small>
 
----
-
-### 🪫 Electronics Skill
+## Electronics Skill
 <small>
 
 - Vivado  
@@ -99,9 +87,7 @@
 
 </small>
 
----
-
-### ⚡ Electronics Project
+## Electronics Project
 <small>
 
 - 2024 SRAM Interface MAC ASIC Design
@@ -109,9 +95,7 @@
 
 </small>
 
----
-
-### 🗣️ English Skill
+## English Skill
 <small>
 
 - 2022 TEPS 379  
