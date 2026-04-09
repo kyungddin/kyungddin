@@ -28,8 +28,6 @@
 
 </p>
 
-<br>
-
 # Education & Career
 ```
 2019 - 2023 SeoulTech University (MSD)
@@ -45,22 +43,16 @@
 2025 LG Aimers 7th AI Hackathon
 ```
 
-<br>
-
 # Publication
 
 **LiDAR Reflection Recovery via Shadow Boxing**  
 The 16th ICTC (IWBCN Workshop)  
 [Paper Link](https://nsl.cau.ac.kr/papers/ictc/ictc2025-kim-lidar-mirror.pdf)
 
-<br>
-
 # Award
 
 **IRC 2019 – Minister of National Institute of Technology and Standards Award**  
 [Details](https://www.irobotnews.com/news/articleView.html?idxno=18484)
-
-<br>
 
 # Projects
 
@@ -74,8 +66,6 @@ The 16th ICTC (IWBCN Workshop)
 ### Hardware
 - SRAM Interface MAC ASIC Design (2024)
 - 3-bit Flash ADC Layout Design (2025)
-
-<br>
 
 # English
 
