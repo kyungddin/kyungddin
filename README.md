@@ -20,6 +20,7 @@
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat\&logo=ros\&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white) 
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat\&logo=ansible\&logoColor=white) 
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 
 #### **DB & Collaboration** 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white) 
