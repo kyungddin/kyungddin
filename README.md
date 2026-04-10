@@ -68,14 +68,14 @@ The 16th ICTC (IWBCN Workshop)
 
 ## ✔️ Projects
 
-### Software
+#### Software
 - Humanoid Robot Motion Control & Computer Vision (2019)
 - Decision Tree Ensemble for Infertility Prediction (2025)
 - LSTM Menu Demand Forecasting (2025)
 - LiDAR Reflection Recovery via Shadow Boxing (2025)
 - Infra LiDAR Based Autonomous Driving System (Capstone)
 
-### Hardware
+#### Hardware
 - SRAM Interface MAC ASIC Design (2024)
 - 3-bit Flash ADC Layout Design (2025)
 
