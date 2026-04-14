@@ -5,5 +5,3 @@
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungddin&layout=compact&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
