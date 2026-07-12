@@ -34,7 +34,3 @@
 | [LiDAR-Reflection-Recovery](https://github.com/kyungddin/LiDAR-Reflection-Recovery-via-Shadow-Boxing) | ICTC 2025 논문 코드 — 거울 반사 왜곡 복원, GPU 병렬화로 3.2배 가속 |
 | [Infra-LiDAR](https://github.com/kyungddin/Infra-LiDAR)                                               | 자율주행 종합설계 — UDP/CAN 통신, ROS 시뮬레이션               |
 | [LGAimers6](https://github.com/kyungddin/LGAimers6)                                                   | 25만 건 임상 데이터 ML 분류 — ROC-AUC 7.5% 개선            |
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyungddin&show_icons=true&theme=dracula&hide_border=true"/>
-</p>
