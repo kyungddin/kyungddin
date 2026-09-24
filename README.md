@@ -5,10 +5,10 @@
   <img src="./profile-3d-contrib/profile-night-green.svg"/>
 </p>
 
-## 👋 About Me
+## About Me
 물류 자동화 시스템을 개발하고 있는 엔지니어입니다.
 
-## 🛠 Tech Stack
+## Tech Stack
 **DevOps & Infrastructure**<br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white"/>
 
@@ -18,13 +18,10 @@
 **Database**<br>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-**Robotics**<br>
-<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
-
 **Tools & Collaboration**<br>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 
-## 📌 Project Highlights
+## Project Highlights
 | 프로젝트 | 설명 |
 | --- | --- |
 | [LiDAR-Reflection-Recovery](https://github.com/kyungddin/LiDAR-Reflection-Recovery-via-Shadow-Boxing) | ICTC 2025 논문 코드 — 거울 반사 왜곡 복원, GPU 병렬화로 3.2배 가속 |
