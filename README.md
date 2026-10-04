@@ -3,7 +3,7 @@
 </p>
 
 ## About Me
-물류 자동화 시스템을 개발하고 있는 엔지니어입니다.
+물류자동화시스템을 개발하고 있는 엔지니어입니다.
 
 ## Tech Stack
 **DevOps & Infrastructure**<br>
